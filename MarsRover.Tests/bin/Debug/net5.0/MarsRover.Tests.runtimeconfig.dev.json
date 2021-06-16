@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/mesut/.dotnet/store/|arch|/|tfm|",
+      "/home/mesut/.nuget/packages"
+    ]
+  }
+}

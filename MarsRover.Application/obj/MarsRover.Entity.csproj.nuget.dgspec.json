@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mesut/Desktop/MarsRover/MarsRover.Application/MarsRover.Entity.csproj": {}
+  },
+  "projects": {
+    "/home/mesut/Desktop/MarsRover/MarsRover.Application/MarsRover.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mesut/Desktop/MarsRover/MarsRover.Application/MarsRover.Entity.csproj",
+        "projectName": "MarsRover.Entity",
+        "projectPath": "/home/mesut/Desktop/MarsRover/MarsRover.Application/MarsRover.Entity.csproj",
+        "packagesPath": "/home/mesut/.nuget/packages/",
+        "outputPath": "/home/mesut/Desktop/MarsRover/MarsRover.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mesut/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
